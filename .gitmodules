@@ -1,0 +1,4 @@
+[submodule "commonA"]
+	path = commonA
+	url = https://github.com/MaxWu2013/commonA.git
+	branch = branch2
